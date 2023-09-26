@@ -1,2 +1,2 @@
 console.log('index js')
-console.log('v 1.0')
+console.log('v 2.0')
